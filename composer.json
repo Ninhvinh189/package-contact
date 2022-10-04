@@ -1,0 +1,19 @@
+{
+    "name": "xuanvinh/contact",
+    "description": "This will send email",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xuanvinh\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ninhvinh",
+            "email": "ninhxuanvinh_t64@hus.edu.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
